@@ -1,3 +1,3 @@
 # E-Learna Mobile App
 
-E-learna is an e-learning platform for all types of digital courses.
+E-Learna is a modern e-learning platform designed to deliver engaging and accessible courses across various fields, empowering users to learn anytime, anywhere.
